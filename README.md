@@ -29,3 +29,9 @@
 - Documento
 - Object
 - Model
+
+# API
+- Application
+- Programming
+- Interface
+- JSON: JavaScript Object Notation
