@@ -77,7 +77,7 @@ const enviarFormulario = async (event) => {
   const question = questionInput.value
 
   if(apiKey == '' || game == '' || question == '') {
-    alert('Por favor, preencha todos os campos')
+    alert('Por favor, preencha todos os campos antes de perguntar.')
     return
   } 
   
